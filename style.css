@@ -10,6 +10,19 @@ p {
     font-family: 'Playfair', serif;
 }
 
+h2 {
+    color: white;
+    font-size: 32px;
+    font-family: 'Playfair', serif;
+}    
+
+h1 {
+    color: white;
+    font-size: 44px;
+    font-family: 'Playfair', serif;
+}    
+
+
 /* Style for the main heading */
 h1 {
     text-align: center; /* Puts the heading in the middle */
